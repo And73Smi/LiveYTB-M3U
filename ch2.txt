@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
- relaxing music | RELAXING | https://i.imgur.com/L45fK85.png | RELAXING OCEAN
+relaxing music | RELAXING | https://i.imgur.com/L45fK85.png | RELAXING OCEAN
 https://www.youtube.com/watch?v=rb7zDa6uTnk
