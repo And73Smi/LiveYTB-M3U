@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Jerry | News | http://1forallweb.weebly.com/uploads/4/0/7/4/40745081/kompas-tv-logo-www-blogovector-com.png |
+https://www.youtube.com/@ScaryFun7/live
