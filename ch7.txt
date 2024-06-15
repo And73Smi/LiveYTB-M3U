@@ -2,7 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Tom and Jerry | ΠΑΙΔΙΚΑ | https://i.imgur.com/Lz9eZkE.png | Tom and Jerry
-
-
-
-
+https://www.youtube.com/watch?v=LXoQVDGeuRc
